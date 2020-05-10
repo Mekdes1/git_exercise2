@@ -1,3 +1,5 @@
 Apple
-orange
+orange  juice
 banana
+pineapple
+strawberry
